@@ -9,7 +9,7 @@ function calculateBMI() {
 
   // You are going to write the code here before the curly braces 👇🏻
 
-const BMIChallenge = weight / (height*2 / 100); 
+const BMIChallenge = weight / (height^2 / 100); 
 
 
 alert (`your bmi is ${BMIChallenge}`);
